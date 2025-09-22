@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "971175481805",
+    "firebase_url": "https://fire-with-unity-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fire-with-unity",
+    "storage_bucket": "fire-with-unity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971175481805:android:364cc6a367ef15220d3484",
+        "android_client_info": {
+          "package_name": "no.firebase.highscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcnFFE3XVuVz_0OGRdaiXCGpxX2VI4nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
